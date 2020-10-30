@@ -1,6 +1,6 @@
 {
   "name": "@jon-zawada/create-project-jz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cli to create project templates",
   "main": "src/index.js",
   "bin": {
